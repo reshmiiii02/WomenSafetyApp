@@ -26,7 +26,7 @@ Women Safety App is a web-based application designed to enhance personal safety 
 
 ## 🔗 Live Demo
 
-(Add your deployed link here)
+()https://strong-caramel-a9f164.netlify.app/
 
 ## 📂 GitHub
 
